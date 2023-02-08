@@ -1,4 +1,5 @@
-# YOU CAN VIEW MY APP DEPLOYED [HERE](my-github-finder-react-fxhvoiyfn-luibacli.vercel.app)
+# YOU CAN VIEW MY APP DEPLOYED HERE
+(my-github-finder-react-fxhvoiyfn-luibacli.vercel.app)
 
 
 ## Available Scripts
